@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718334340 source:c:\users\jhanq\onedrive\documents\estudios\documentos de materias\programacion\programas capitulo 7.1\cambio_de_minuscula_a_mayuscula\main.c
+	<stdio.h>
+	<stdlib.h>
+
